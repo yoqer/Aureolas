@@ -18,7 +18,7 @@ La librería de Aureolas es un intento de Agrupar en una Librería un conjunto d
 
 
 1.3-AUREAS (AurAlia)
-![ax-lgg98-halo](http://github.com/yoqer/Auralia).
+![ax-lgg98-halo](http://github.com/yoqer/AurAlia).
 
 
 
