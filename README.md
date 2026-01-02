@@ -11,15 +11,19 @@ La librería de Aureolas es un intento de Agrupar en una Librería un conjunto d
 
 1.1-AUREAS. (AOrAlia y AurAlia)
 ![ax-lgg98-halo](http://github.com/yoqer/AUREAS).
-https://github.com/user-attachments/assets/0f1f5c8c-8cfa-490c-b443-8daa3d49fcd7)
 
+![ghost-aura](https://github.com/user-attachments/assets/61b574cf-1c07-43b6-a261-d09ea931811b)
+
+
+![lightning-aura](https://github.com/user-attachments/assets/356eb294-242d-4d56-a1c7-6d36cf926c8e)
 
 1.2-AUREAS (AOrAlia)
 ![ax-lgg98-halo](http://github.com/yoqer/Aoralia).
-![aura-farming-aura (1)](https://github.com/user-attachments/assets/44e04640-9d5f-46ee-9027-3a2cbf32771c)
+![aura-farming-aura (1)](https://github.com/user-attachments/assets/44e04640-9d5f-46ee-9027-3
 
 
-1.3-AUREAS (AurAlia)
+
+1.3-AUREAS (AureAlia)
 ![ax-lgg98-halo](http://github.com/yoqer/AurAlia).
 
 ![grenn-aura](https://github.com/user-attachments/assets/2a40e7a1-b7d4-4c12-a27f-2d497446b4c7)
@@ -27,3 +31,10 @@ https://github.com/user-attachments/assets/0f1f5c8c-8cfa-490c-b443-8daa3d49fcd7)
 
 
 Puedes añadir los enlaces a tus combinaciones de inferencia aqui.
+![elizabeth-you-have-a-great-heart](https://github.com/user-attachments/assets/027f828b-9b9e-4a45-b092-c8590064a251)
+![aura](https://github.com/user-attachments/assets/79335c63-278a-4053-96c3-114776bdae2b)
+![purple-aura](https://github.com/user-attachments/assets/8d8338b6-f433-4080-a263-eebedb2680e7)
+![anime-dark](https://github.com/user-attachments/assets/868d764f-548e-442f-b4e4-7d30c56d09cd)
+![color-purple](https://github.com/user-attachments/assets/c7d3c698-ef51-42c6-a7db-682a01543d0b)
+![mega-man-mega-man-x](https://github.com/user-attachments/assets/71b9bf22-0993-4414-83ec-1d58cc4707f1)
+![aura-of-vitality-5e](https://github.com/user-attachments/assets/25d847cc-69c5-46a2-b697-06c1a9941271)
