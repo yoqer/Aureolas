@@ -26,7 +26,7 @@ La librería de Aureolas es un intento de Agrupar en una Librería un conjunto d
 
 
 
-1.3-AUREAS [(AureAlia)](http://github.com/yoqer/AurAlia).
+1.3-AUREAS [(AureAlia)](http://github.com/yoqer/AureAlia).
 
 
 ![aura-of-vitality-5e](https://github.com/user-attachments/assets/25d847cc-69c5-46a2-b697-06c1a9941271)
