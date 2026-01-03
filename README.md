@@ -12,7 +12,8 @@ La librería de Aureolas es un intento de Agrupar en una Librería un conjunto d
 1.1-AUREAS. [(AOrAlia y AurAlia)](http://github.com/yoqer/AUREAS).
 
 
-![aura-farming-aura (1)](https://github.com/user-attachments/assets/e315b4e8-95b7-43af-9812-02be1e37e0e3)
+[![aura-farming-aura (1)](https://github.com/user-attachments/assets/e315b4e8-95b7-43af-9812-02be1e37e0e3)]
+(http://github.com/yoqer/AUREAS).
 
 
 
