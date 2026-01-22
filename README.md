@@ -48,7 +48,10 @@ La librería de Aureolas es un intento de Agrupar en una Librería un conjunto d
 
 
 
-____________________________________________________________
+__________________________________________________________
+
+
+
 
 
 # Certezas: 
@@ -79,18 +82,6 @@ ____________________________________________________________
 
 
 
-
-Puedes añadir los enlaces a tus combinaciones de 
-inferencia aqui.
-
-![aura](https://github.com/user-attachments/assets/79335c63-278a-4053-96c3-114776bdae2b)
-
-
-![elizabeth-you-have-a-great-heart](https://github.com/user-attachments/assets/027f828b-9b9e-4a45-b092-c8590064a251)
-![purple-aura](https://github.com/user-attachments/assets/8d8338b6-f433-4080-a263-eebedb2680e7)
-![anime-dark](https://github.com/user-attachments/assets/868d764f-548e-442f-b4e4-7d30c56d09cd)
-![color-purple](https://github.com/user-attachments/assets/c7d3c698-ef51-42c6-a7db-682a01543d0b)
-![mega-man-mega-man-x](https://github.com/user-attachments/assets/71b9bf22-0993-4414-83ec-1d58cc4707f1)
 
 
 
@@ -133,3 +124,32 @@ __________________________________________________________
 
 
 1.-GPT OSS [(Safeguard 120B-20B)](https://github.com/openai/gpt-oss-safeguard)
+
+
+
+
+2.-
+
+
+
+
+
+
+__________________________________________________________
+
+
+
+
+
+Puedes añadir los enlaces a tus combinaciones de 
+inferencia aqui.
+
+![aura](https://github.com/user-attachments/assets/79335c63-278a-4053-96c3-114776bdae2b)
+
+
+![elizabeth-you-have-a-great-heart](https://github.com/user-attachments/assets/027f828b-9b9e-4a45-b092-c8590064a251)
+![purple-aura](https://github.com/user-attachments/assets/8d8338b6-f433-4080-a263-eebedb2680e7)
+![anime-dark](https://github.com/user-attachments/assets/868d764f-548e-442f-b4e4-7d30c56d09cd)
+![color-purple](https://github.com/user-attachments/assets/c7d3c698-ef51-42c6-a7db-682a01543d0b)
+![mega-man-mega-man-x](https://github.com/user-attachments/assets/71b9bf22-0993-4414-83ec-1d58cc4707f1)
+
