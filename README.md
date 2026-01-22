@@ -132,4 +132,4 @@ __________________________________________________________
 # Seguridad 
 
 
-1.-GPT OSSS (Safeguard 120B-20B)
+1.-GPT OSS [(Safeguard 120B-20B)](https://github.com/openai/gpt-oss-safeguard)
