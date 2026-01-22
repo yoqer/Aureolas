@@ -41,6 +41,15 @@ La librería de Aureolas es un intento de Agrupar en una Librería un conjunto d
 
 
 
+____________________________________________________________
+
+
+# Certezas: 
+
+
+1.-Wikipedia (Mediapedia)
+
+<img width="960" height="960" alt="IMG_20251220_131241" src="https://github.com/user-attachments/assets/34e20c24-1149-47ff-b5de-4b3ad1e92751" />
 
 
 
@@ -54,7 +63,7 @@ La librería de Aureolas es un intento de Agrupar en una Librería un conjunto d
 
 
 
-3.-DeepSeek V4. (Ngram)
+3.-DeepSeek. [(Ngram)](https://github.com/deepseek-ai/Engram)
 
 <img width="960" height="960" alt="IMG_20251220_125440" src="https://github.com/user-attachments/assets/5739a3c3-9183-4e7d-8a77-97ecc9fe03da" />
 
