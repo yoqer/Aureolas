@@ -98,8 +98,7 @@ __________________________________________________________
 
 
 
-# Razonamientos
-
+# Razonamiento
 
 
 
@@ -114,7 +113,7 @@ __________________________________________________________
 
 # Sesgos
 
-Algunos modelos Open Source en Español, como modelos de Alia, para su uso, requieren de un previo afinamiento de Sesgos como de obligatorio cumplimiento. Puedes usar para afinar el modelo con tus datos, nuevas bibliotecas como TenMinaTorc; que cuentan con opcion de añadir generacion de datos sintéticos para crear equilibrio en datos propios, sin asi sesgar el modelo.
+Algunos modelos Open Source en Español, como modelos de Alia, para su uso, requieren de un previo afinamiento de Sesgos como de obligatorio cumplimiento. Puedes usar para afinar el modelo con tus datos, las nuevas bibliotecas como TenMinaTorc; que ahora cuentan con opcion de añadir generacion de datos sintéticos para crear equilibrio en datos propios, sin sesgar el modelo.
 
 Tambien existen ya procesos de eliminacion de Sesgos de posible uso como Aureolas.
 
