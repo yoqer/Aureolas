@@ -47,16 +47,16 @@ ____________________________________________________________
 # Certezas: 
 
 
-1.-Wikipedia (Mediapedia)
+1.-Wikipedia [(Mediapedia)](https://es.wikipedia.org/w/api.php)
 
-<img width="960" height="960" alt="IMG_20251220_131241" src="https://github.com/user-attachments/assets/34e20c24-1149-47ff-b5de-4b3ad1e92751" />
+<img width="960" height="960" alt="IMG_20251220_131241" src="https://github.com/user-attachments/assets/34e20c24-1149-47ff-b5de-4b3ad1e92751"/>
 
 
 
 2.-Grokipedia.  [(No Oficial)](https://grokipedia-api.com)
 
 
-<img width="960" height="960" alt="IMG_20251218_021642" src="https://github.com/user-attachments/assets/90f36a2b-9443-4a74-9bdd-73da48f04566" />
+<img width="960" height="960" alt="IMG_20251218_021642" src="https://github.com/user-attachments/assets/90f36a2b-9443-4a74-9bdd-73da48f04566"/>
 
 
 
@@ -65,7 +65,7 @@ ____________________________________________________________
 
 3.-[DeepSeek.](https://github.com/deepseek-ai/FlashMLA)  [(Ngram)](https://github.com/deepseek-ai/Engram)
 
-<img width="960" height="960" alt="IMG_20251220_125440" src="https://github.com/user-attachments/assets/5739a3c3-9183-4e7d-8a77-97ecc9fe03da" />
+<img width="960" height="960" alt="IMG_20251220_125440" src="https://github.com/user-attachments/assets/5739a3c3-9183-4e7d-8a77-97ecc9fe03da"/>
 
 
 
