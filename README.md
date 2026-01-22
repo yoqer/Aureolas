@@ -41,6 +41,13 @@ La librería de Aureolas es un intento de Agrupar en una Librería un conjunto d
 
 
 
+
+
+2.Prime Intelect (Loop)
+
+
+
+
 ____________________________________________________________
 
 
@@ -84,3 +91,45 @@ inferencia aqui.
 ![anime-dark](https://github.com/user-attachments/assets/868d764f-548e-442f-b4e4-7d30c56d09cd)
 ![color-purple](https://github.com/user-attachments/assets/c7d3c698-ef51-42c6-a7db-682a01543d0b)
 ![mega-man-mega-man-x](https://github.com/user-attachments/assets/71b9bf22-0993-4414-83ec-1d58cc4707f1)
+
+
+
+__________________________________________________________
+
+
+
+# Razonamientos
+
+
+
+
+
+
+
+
+
+
+__________________________________________________________
+
+
+# Sesgos
+
+Algunos modelos Open Source en Español, como modelos de Alia, para su uso, requieren de un previo afinamiento de Sesgos como de obligatorio cumplimiento. Puedes usar para afinar el modelo con tus datos las bibliotecas TenMinaTorc; que cuentan con opcion de añadir generacion de datos sintéticos para el equilibrio de tus propios datos sin sesgar el modelo.
+
+Tambien existen ya procesos de eliminacion de Sesgos de posible uso como Aureolas.
+
+
+1.-Microsoft 
+
+
+
+
+
+
+__________________________________________________________
+
+
+# Seguridad 
+
+
+1.-Open AI (
