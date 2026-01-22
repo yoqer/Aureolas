@@ -44,7 +44,7 @@ La librería de Aureolas es un intento de Agrupar en una Librería un conjunto d
 
 
 
-2.-Grokipedia.  
+2.-Grokipedia.  [(No Oficial)](https://grokipedia-api.com)
 
 
 <img width="960" height="960" alt="IMG_20251218_021642" src="https://github.com/user-attachments/assets/90f36a2b-9443-4a74-9bdd-73da48f04566" />
