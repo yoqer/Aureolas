@@ -43,7 +43,7 @@ La librería de Aureolas es un intento de Agrupar en una Librería un conjunto d
 
 
 
-2.Prime Intelect (Loop)
+2.-Prime Intelect (Loop)
 
 
 
@@ -141,7 +141,7 @@ __________________________________________________________
 
 
 
-Puedes añadir los enlaces a tus combinaciones de 
+Puedes añadir mas enlaces de estas o tus combinaciones de 
 inferencia aqui.
 
 ![aura](https://github.com/user-attachments/assets/79335c63-278a-4053-96c3-114776bdae2b)
