@@ -42,6 +42,28 @@ La librería de Aureolas es un intento de Agrupar en una Librería un conjunto d
 
 
 
+
+
+2.-Grokipedia.  
+
+
+<img width="960" height="960" alt="IMG_20251218_021642" src="https://github.com/user-attachments/assets/90f36a2b-9443-4a74-9bdd-73da48f04566" />
+
+
+
+
+
+
+3.-DeepSeek V4. (Ngram)
+
+<img width="960" height="960" alt="IMG_20251220_125440" src="https://github.com/user-attachments/assets/5739a3c3-9183-4e7d-8a77-97ecc9fe03da" />
+
+
+
+
+
+
+
 Puedes añadir los enlaces a tus combinaciones de 
 inferencia aqui.
 
