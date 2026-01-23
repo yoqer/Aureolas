@@ -100,14 +100,19 @@ https://github.com/user-attachments/assets/d94c5410-df87-40ee-8b07-42f189a5b3a3
 
 
 
-1.1-Error [(Interpretar Error)](https://github.com/microsoft/responsible-ai-toolbox/blob/main/docs/erroranalysis-dashboard-README.md)
+1.1-Error [(Error-Interpretar)](https://github.com/microsoft/responsible-ai-toolbox/blob/main/docs/erroranalysis-dashboard-README.md)
 
 2.-Prime Intellect: [Synthetic-2:](https://huggingface.co/collections/PrimeIntellect/synthetic-2) Seguir:[Instrucciones y Tareas.](https://huggingface.co/datasets/PrimeIntellect/SYNTHETIC-2)
 
 
+![grok_image_xnnsel1](https://github.com/user-attachments/assets/07dffa2c-77ed-44f2-87cb-0bea01b11782)
 
 
-__________________________________________________________
+
+
+__________________________________________________________________________
+
+
 
 
 # Sesgos
