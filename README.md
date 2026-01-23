@@ -85,7 +85,7 @@ __________________________________________________________
 
 
 
-_______________________________________________________________________________________
+_______________________________________________________________________________________________________________
 
 
 
@@ -100,8 +100,7 @@ https://github.com/user-attachments/assets/d94c5410-df87-40ee-8b07-42f189a5b3a3
 
 
 
-1.1-Error [(Elusión Error)]
-
+1.1-Error [(Interpretar Error)](https://github.com/microsoft/responsible-ai-toolbox/blob/main/docs/erroranalysis-dashboard-README.md)
 
 2.-Prime Intellect: [Synthetic-2:](https://huggingface.co/collections/PrimeIntellect/synthetic-2) Seguir:[Instrucciones y Tareas.](https://huggingface.co/datasets/PrimeIntellect/SYNTHETIC-2)
 
