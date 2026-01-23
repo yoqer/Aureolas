@@ -92,7 +92,7 @@ ________________________________________________________________________________
 # Razonamiento
 
 
-ALICE (Economía) [Interrogativo](https://github.com/py-why/EconML)
+Microsoft: ALICE (Predecir Economía) [Interrogativo](https://github.com/py-why/EconML)
 
 
 
