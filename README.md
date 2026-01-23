@@ -73,7 +73,7 @@ __________________________________________________________
 
 
 
-3.-[DeepSeek.](https://github.com/deepseek-ai/FlashMLA)  [(Ngram)](https://github.com/deepseek-ai/Engram)
+3.-[DeepSeek.](https://github.com/deepseek-ai/FlashMLA)  [(eNgram)](https://github.com/deepseek-ai/Engram)
 
 <img width="960" height="960" alt="IMG_20251220_125440" src="https://github.com/user-attachments/assets/5739a3c3-9183-4e7d-8a77-97ecc9fe03da"/>
 
@@ -117,14 +117,14 @@ https://github.com/microsoft/responsible-ai-toolbox-mitigations)
 
 
 
-1.3-Microsoft.[(Profesiones-VLM)](https://github.com/microsoft/measure-sociobias-VLM)
+1.3-Microsoft[(Profesiones-VLM)](https://github.com/microsoft/measure-sociobias-VLM)
 
 
-1.4-Microsoft. [(Multilingües)](https://github.com/microsoft/MultilingualBiasEvaluation)
+1.4-Microsoft: [(Multilingües)](https://github.com/microsoft/MultilingualBiasEvaluation)
 
 
 
-1.5-Microsoft. [(Crear Datos)](
+1.5-Microsoft: [(Crear Datos)](
 https://github.com/microsoft/biosbias)
 
 
