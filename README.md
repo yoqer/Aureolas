@@ -44,9 +44,7 @@ La librería de Aureolas es un intento de Agrupar en una Librería un conjunto d
 
 
 
-2.-Prime Intelect (Loop)
-
-
+2.-IQuest Labs [(Loop)](https://github.com/IQuestLab/IQuest-Coder-V1)
 
 
 __________________________________________________________
