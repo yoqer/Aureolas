@@ -112,7 +112,7 @@ Tambien existen ya procesos para eliminacion de Sesgos de posible uso como Aureo
 
 1.1-Microsoft: Genero [(GenBit)](https://github.com/microsoft/responsible-ai-toolbox-genbit)
 
-1.2-Microsoft: [(Mitigar-Equidad)](
+1.2-Microsoft: Equidad [(Mitigación)](
 https://github.com/microsoft/responsible-ai-toolbox-mitigations)
 
 
