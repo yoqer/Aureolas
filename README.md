@@ -1,6 +1,6 @@
 # Aureolas
 
-La librería de Aureolas es un intento de Agrupar en una Librería un conjunto de Aureolas como medidas posibles y combinables de ejercer acciones sobre LLMs Activos.
+La librería de Aureolas es un intento de Agrupar en una Librería un conjunto de Aureolas como medidas posibles y combinables de ejercer acciones sobre LLMs.
 
 
 ![ax-lgg98-halo](https://github.com/user-attachments/assets/0f1f5c8c-8cfa-490c-b443-8daa3d49fcd7)
