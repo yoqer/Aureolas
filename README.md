@@ -94,6 +94,12 @@ ________________________________________________________________________________
 
 1.-Microsoft: ALICE (Predecir Economía) [Interrogativo](https://github.com/py-why/EconML)
 
+
+
+https://github.com/user-attachments/assets/d94c5410-df87-40ee-8b07-42f189a5b3a3
+
+
+
 1.1-Error [(Elusión Error)]
 
 
