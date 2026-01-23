@@ -117,14 +117,14 @@ https://github.com/microsoft/responsible-ai-toolbox-mitigations)
 
 
 
-1.3-Microsoft. VLM & [Profesiones](https://github.com/microsoft/measure-sociobias-VLM)
+1.3-Microsoft. VLM [(Profesiones)](https://github.com/microsoft/measure-sociobias-VLM)
 
 
-1.4-Microsoft. [Multilingüe](https://github.com/microsoft/MultilingualBiasEvaluation)
+1.4-Microsoft. [(Multilingües)](https://github.com/microsoft/MultilingualBiasEvaluation)
 
 
 
-1.5-Microsoft. [Crear Datos](
+1.5-Microsoft. [(Crear Datos)](
 https://github.com/microsoft/biosbias)
 
 
@@ -157,7 +157,8 @@ __________________________________________________________
 
 
 
-__________________________________________________________
+__________________________________________________________________________
+
 
 
 
