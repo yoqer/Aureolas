@@ -94,8 +94,10 @@ ________________________________________________________________________________
 
 1.-Microsoft: ALICE (Predecir Economía) [Interrogativo](https://github.com/py-why/EconML)
 
+1.1-Error [(Elusión Error)]
 
-2.-Prime Intellect: Synthetic-2: Seguir:[Instrucciones y Tareas.](https://huggingface.co/datasets/PrimeIntellect/SYNTHETIC-2)
+
+2.-Prime Intellect: [Synthetic-2:](https://huggingface.co/collections/PrimeIntellect/synthetic-2) Seguir:[Instrucciones y Tareas.](https://huggingface.co/datasets/PrimeIntellect/SYNTHETIC-2)
 
 
 
