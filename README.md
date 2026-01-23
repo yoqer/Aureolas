@@ -1,4 +1,5 @@
-yo# Aureolas
+# Aureolas
+
 La librería de Aureolas es un intento de Agrupar en una Librería un conjunto de Aureolas como medidas posibles y combinables de ejercer acciones sobre LLMs Activos.
 
 
