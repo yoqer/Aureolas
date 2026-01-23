@@ -1,4 +1,4 @@
-# Aureolas
+yo# Aureolas
 La librería de Aureolas es un intento de Agrupar en una Librería un conjunto de Aureolas como medidas posibles y combinables de ejercer acciones sobre LLMs Activos.
 
 
@@ -85,13 +85,14 @@ __________________________________________________________
 
 
 
-__________________________________________________________________________
+_______________________________________________________________________________________
 
 
 
 # Razonamiento
 
 
+ALICE (Economía) [Interrogativo](https://github.com/py-why/EconML)
 
 
 
