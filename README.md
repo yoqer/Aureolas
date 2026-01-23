@@ -129,7 +129,7 @@ https://github.com/microsoft/biosbias)
 
 
 
-2.-GPT 2. [Output Dataset](https://github.com/openai/gpt-2-output-dataset)
+
 
 
 __________________________________________________________
