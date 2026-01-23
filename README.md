@@ -181,7 +181,7 @@ __________________________________________________________________________
 
 
 
-2.- 
+2.-Open AI  [(Aardwark)](https://aardvarkxr.github.io/aardvark/getting_started)
 
 
 ![purple-aura](https://github.com/user-attachments/assets/8d8338b6-f433-4080-a263-eebedb2680e7)
