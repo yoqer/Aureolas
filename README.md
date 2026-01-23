@@ -46,6 +46,7 @@ La librería de Aureolas es un intento de Agrupar en una Librería un conjunto d
 
 2.-IQuest Labs [(Loop)](https://github.com/IQuestLab/IQuest-Coder-V1)
 
+![hachiware-usagi](https://github.com/user-attachments/assets/e0efb911-8862-4428-9afc-45a084266c0e)
 
 __________________________________________________________
 
@@ -94,7 +95,7 @@ ________________________________________________________________________________
 1.-Microsoft: ALICE (Predecir Economía) [Interrogativo](https://github.com/py-why/EconML)
 
 
-2.-Prime Intellect: Synthetic-2: [Instrucciones y Tareas.](https://huggingface.co/datasets/PrimeIntellect/SYNTHETIC-2)
+2.-Prime Intellect: Synthetic-2: Seguir:[Instrucciones y Tareas.](https://huggingface.co/datasets/PrimeIntellect/SYNTHETIC-2)
 
 
 
