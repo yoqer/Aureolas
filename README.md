@@ -91,10 +91,10 @@ ________________________________________________________________________________
 # Razonamiento
 
 
-Microsoft: ALICE (Predecir Economía) [Interrogativo](https://github.com/py-why/EconML)
+1.-Microsoft: ALICE (Predecir Economía) [Interrogativo](https://github.com/py-why/EconML)
 
 
-
+2.-Prime Intellect: Synthetic-2: [Instrucciones y Tareas.](https://huggingface.co/datasets/PrimeIntellect/SYNTHETIC-2)
 
 
 
