@@ -107,14 +107,29 @@ __________________________________________________________
 Algunos modelos Open Source en Español, como modelos de Alia, para su uso, requieren de un previo afinamiento sobre Sesgos como de obligatorio cumplimiento. 
 -Puedes usar para afinar el modelo con tus datos, las nuevas bibliotecas como [TenMinaTorch;](https://github.com/yoqer/TenMinaTorch) que ahora cuentan con opcion de añadir generacion de datos sintéticos, creando equilibrio en datos propios, sin sesgar el modelo.
 
-Tambien existen ya procesos de eliminacion de Sesgos de posible uso como Aureolas.
+Tambien existen ya procesos para eliminacion de Sesgos de posible uso como Aureolas.
 
 
-1.-Microsoft 
+1.1-Microsoft: Genero [(GenBit)](https://github.com/microsoft/responsible-ai-toolbox-genbit)
+
+1.2-Microsoft:  [(Mitigación)](
+https://github.com/microsoft/responsible-ai-toolbox-mitigations)
 
 
 
+1.3-Microsoft. VLM & [Profesiones](https://github.com/microsoft/measure-sociobias-VLM)
 
+
+1.4-Microsoft. [Multilingüe](https://github.com/microsoft/MultilingualBiasEvaluation)
+
+
+
+1.5-Microsoft. [Crear Datos](
+https://github.com/microsoft/biosbias)
+
+
+
+2.-GPT 2. [Output Dataset](https://github.com/openai/gpt-2-output-dataset)
 
 
 __________________________________________________________
