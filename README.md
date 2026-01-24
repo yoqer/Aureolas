@@ -82,17 +82,9 @@ __________________________________________________________
 __________________________________________________________
 
 
-
 3.-[DeepSeek.](https://github.com/deepseek-ai/FlashMLA)  [(eNgram)](https://github.com/deepseek-ai/Engram)
 
 <img width="960" height="960" alt="IMG_20251220_125440" src="https://github.com/user-attachments/assets/5739a3c3-9183-4e7d-8a77-97ecc9fe03da"/>
-
-
-
-
-
-
-
 
 
 ____________________________________________________________________________________________________________________
@@ -105,10 +97,6 @@ ________________________________________________________________________________
 1.-Microsoft: ALICE (Predecir Economía) [Interrogativo](https://github.com/py-why/EconML)
 
 <img width="600" height="600" alt="IMG_20251217_235821" src="https://github.com/user-attachments/assets/54ac0132-232c-4a97-91a6-5ede99729854" />
-
-
-
-
 
 1.1-Error [(Error-Interpretar)](https://github.com/microsoft/responsible-ai-toolbox/blob/main/docs/erroranalysis-dashboard-README.md)
 
