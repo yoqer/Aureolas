@@ -104,7 +104,7 @@ ________________________________________________________________________________
 
 1.-Microsoft: ALICE (Predecir Economía) [Interrogativo](https://github.com/py-why/EconML)
 
-<img width="960" height="960" alt="IMG_20251217_235821" src="https://github.com/user-attachments/assets/54ac0132-232c-4a97-91a6-5ede99729854" />
+<img width="600" height="600" alt="IMG_20251217_235821" src="https://github.com/user-attachments/assets/54ac0132-232c-4a97-91a6-5ede99729854" />
 
 
 
